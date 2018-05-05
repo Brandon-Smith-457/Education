@@ -12,4 +12,4 @@ Question_2.asm - Assembler addition loop to determine how long someone's been al
 Question3.circ - Circuit of a control unit with simple instructions (NOT FINISHED AND ALSO NOT TECHNICALLY EVEN ON THE RIGHT PATH)  
 ### Assignment 4
 Assignment4.asm - Assembler recursive summation of 10 integers given by the user.  
-Multi_Instruction_CPU.circ - Circuit implementing a RAM, to store values, and the following 3 instructions: 0:NNN #ADD:the number to add, 1:ZZZ #MOV:the address in RAM to write to, 0:000 #STOP:no argument.
+Multi_Instruction_CPU.circ - Circuit implementing a RAM, to store values, and the following 3 instructions through a control unit (CORRECTLY IMPLEMENTED THIS TIME): 0:NNN #ADD:the number to add, 1:ZZZ #MOV:the address in RAM to write to, 0:000 #STOP:no argument.
