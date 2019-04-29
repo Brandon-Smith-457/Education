@@ -1,0 +1,6 @@
+help
+set a b
+set b c a
+print b
+set b c
+TIME TO RETURN TO TESTFILE2

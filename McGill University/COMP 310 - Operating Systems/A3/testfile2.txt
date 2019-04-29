@@ -1,0 +1,17 @@
+print x
+set x 9
+help
+This is an incorrect input
+'\n'
+\"
+\r\n
+\r
+\n
+
+It's gonna run testfile3!
+run testfile3.txt
+It's gonna run testfile4!
+run testfile4.txt
+And now we go back to testfile3!
+run testfile3.txt
+help

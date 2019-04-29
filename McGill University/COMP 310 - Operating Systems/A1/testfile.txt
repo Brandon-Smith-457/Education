@@ -1,0 +1,36 @@
+help
+set x 10
+set y mary
+set x bob
+print x
+print y
+      
+ help  help
+help help
+set x a b
+print a b set
+ quit quit
+set a b
+print a
+This next line has a space before the command
+ help
+The next line has a bunch of spaces after it
+set b c         
+print b
+This next line has a tab before the command (Linux doesn't actually let you insert a tab, but I don't know how to stop the user from doing that)
+	help
+This next line has a tab after the command
+help	
+set a c
+print a
+set c d
+print c
+set c 1
+set b 2
+set a 3
+print a
+print b
+print c
+run testfile2.txt
+And now it will oepn a non-existant file
+run sdlfkjsldkfjlskdfj.asdgladfkjhldf
