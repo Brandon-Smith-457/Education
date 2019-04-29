@@ -12,4 +12,8 @@ COMP 202 - Foundations of Programming: Java (jdk1.8.0_144 / jre1.8.0_144)
 COMP 206 - Introduction to Software Systems: C (gcc (Ubuntu 5.4.1-2ubuntu1~16.04) 5.4.1 20160904)  
 COMP 250 - Introduction to Computer Science: Java (jdk1.8.0_144 / jre1.8.0_144)  
 COMP 273 - Introduction to Computer Systems: Circuits (Logisim Evolution)/Assembler Programming (Mips)  
+COMP 302 - Programming Languages and Paradigms: Functional Programming (Ocaml)
+COMP 310 - Operating Systems: C (gcc (Ubuntu 5.4.1-2ubuntu1~16.04) 5.4.1 20160904)  
+COMP 322 - Introduction to C++: C++ (MinGW.org GCC-6.3.0-1)  
+COMP 361 - Software Engineering Project: C# (Unity / Visual Studio)  
   ...
